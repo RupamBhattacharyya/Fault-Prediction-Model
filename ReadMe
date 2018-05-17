@@ -2,6 +2,6 @@ All the algorithms are checked and tested on MATLAB.
 
 All the source code files need to be placed along with the `Data’ folder. For getting access to this "Data" please drop me a mail.
 
-During initial execution, user has to locate the folder containing csv files. Afterwards, one csv file need to be chosen by the 
-users for training and prediction purpose. The software has the provision to consider all the csv files. However, for the sake 
-faster execution, this restriction is placed. 
+During initial execution, user has to locate the folder containing csv files. Afterwards, one csv file need 
+to be chosen by the users for training and prediction purpose. The software has the provision to consider 
+all the csv files. However, for the sake faster execution, this restriction is placed. 
